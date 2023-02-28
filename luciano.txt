@@ -1,3 +1,5 @@
 Clase 7 github
 
 Cambio agregado por Diego
+
+Modificando lo que pide el punto 8 - Resolver conflicto
